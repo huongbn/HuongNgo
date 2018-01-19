@@ -17,6 +17,8 @@ Ubuntu server 16.04 la he dieu hanh duoc phat hanh thang 4 nam 2015, chu yeu su 
 
 * VMWare Workstation 12.0
 * Download 'link' cai dặt tu trang http://www.ubuntu.com/download/server
+
+
 **2.2. Cai dat**
 
 **Cấu hình máy ảo như sau**
