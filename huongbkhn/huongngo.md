@@ -63,8 +63,10 @@ Và đây là thành quả =)))
 
 **Putty** là phần mềm giúp bạn truy cập và điều khiển hệ điều hành *Linux* của bạn qua SSH**
 
-* B1. Chạy lệnh: > sudo apt-get update
-* B2. Chạy lênh: > sudo apt-get install ssh
+* B1. Chạy lệnh: 
+> sudo apt-get update
+* B2. Chạy lênh: 
+> sudo apt-get install ssh
 
 
 
