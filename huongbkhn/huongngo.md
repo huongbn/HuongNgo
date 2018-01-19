@@ -2,7 +2,7 @@
 
 ## Mục lục
 
-* [1.Giới thiệu về hệ điều hành ubuntu sever](#1)
+* [1.Giới thiệu về hệ điều hành Ubuntu sever](#1)
 * [2.Hướng dẫn cài đặt](#2)
     * [2.1 Chuẩn bị](#2.1)
     * [2.2 Cài đặt](#2.2)
@@ -26,7 +26,7 @@
 
 <img src="https://i.imgur.com/XHUhKs7.png">
 
-**Tiếp theo là bước thiết lập *username* và *password* 
+**Tiếp theo là bước thiết lập *username* và *password* để đăng nhập vào máy ảo**
 
 <img src="https://i.imgur.com/RAzlc8d.png">
 
@@ -44,6 +44,15 @@ Hãy chờ đợi và tiếp nhận thành quả =)))
 
 <img src="https://i.imgur.com/ossrg1v.png">
 
+Và đây là thành quả =)))
+
 <img src="https://i.imgur.com/9eBlmDY.png">
+
+
+**3. Cài đặt SSH để putty**
+
+**Putty** là phần mềm giúp bạn truy cập và điều khiển hệ điều hành *Linux* của bạn qua SSH**
+
+* Chạy lệnh: < sudo apt-get update
 
 
