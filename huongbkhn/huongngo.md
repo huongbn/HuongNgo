@@ -6,6 +6,7 @@
 * [2.Hướng dẫn cài đặt](#2)
     * [2.1 Chuẩn bị](#2.1)
     * [2.2 Cài đặt](#2.2)
+* [3.Cài đặt SSH để putty](#3)
 
 **1.Giới thiệu hệ điều hành Ubuntu server**
 
@@ -21,6 +22,28 @@
 
 **2.2. Cài đặt**
 
-**Cấu hình máy ảo như sau**
+**Chúng ta tiến hành cấu hình máy ảo như sau**
 
 <img src="https://i.imgur.com/XHUhKs7.png">
+
+**Tiếp theo là bước thiết lập *username* và *password* 
+
+<img src="https://i.imgur.com/RAzlc8d.png">
+
+Cứ tiếp tục bấm next và đến đoạn này là chọn dung lượng *RAM* để chạy cho máy ảo.
+Oử đây tôi chọn **1GB** dung lượng **RAM** cho máy ảo.
+
+<img src="https://i.imgur.com/dYTYAk9.png">
+
+Tiếp tục bấm **Next** cho đến lúc kết thúc. Ta hiện ra một màn hình cài đặt như sau:
+
+<img src="https://i.imgur.com/QCYeYp0.png">
+
+Tiến trình cài đặt của ta đang chạy tự động.
+Hãy chờ đợi và tiếp nhận thành quả =)))
+
+<img src="https://i.imgur.com/ossrg1v.png">
+
+<img src="https://i.imgur.com/9eBlmDY.png">
+
+
