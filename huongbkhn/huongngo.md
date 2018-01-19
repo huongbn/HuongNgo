@@ -19,6 +19,6 @@ Ubuntu server 16.04 la he dieu hanh duoc phat hanh thang 4 nam 2015, chu yeu su 
 * Download 'link' cai dặt tu trang http://www.ubuntu.com/download/server
 **2.2. Cai dat**
 
-**Cau hinì maá ao nhu sau**
+**Cấu hình máy ảo như sau**
 
 <img src="https://imgur.com/a/CZjG5">
