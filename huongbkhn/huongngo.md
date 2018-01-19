@@ -34,8 +34,8 @@ Tiếp theo là bước thiết lập **username** và **password** để đăng
 <img src="https://i.imgur.com/RAzlc8d.png">
 
 
-Cứ tiếp tục bấm next và đến đoạn này là chọn dung lượng *RAM* để chạy cho máy ảo.
-Oử đây tôi chọn **1GB** dung lượng **RAM** cho máy ảo.
+Cứ tiếp tục bấm next và đến đoạn này là chọn dung lượng **RAM** để chạy cho máy ảo.
+Ở đây tôi chọn **1GB** dung lượng **RAM** cho máy ảo.
 
 
 <img src="https://i.imgur.com/dYTYAk9.png">
@@ -67,6 +67,18 @@ Và đây là thành quả =)))
 > sudo apt-get update
 * B2. Chạy lênh: 
 > sudo apt-get install ssh
+> sudo apt-get install putty
+
+Sau khi đã cài xong **Putty** ta tiến hành bật ứng dụng lên.
+Cửa sổ ứng dụng bật lên, trong đó **Ussername** là **tên đăng nhập của bạn** hoặc **địa chỉ IP máy ảo của bạn**
+Muốn kiểm tra địa chỉ **IP** của máy ảo, ta chạy lệnh:
+> sudo ifconfig
+
+Sau khi đã điền đúng **username** ta tiến hành điền **username** và **password** là tên đăng nhập của bạn và *mật khẩu* lúc bạn thiết lập ban đầu.
+
+<img src="https://i.imgur.com/No0Tugt.png">
+
+Ta có kết quả như trên :))
 
 
 
