@@ -1,8 +1,5 @@
-**xin chào**
-hello
-*xin chao các ban*
-img src="https://imgur.com/a/ladkd"
-<ul>
-ngo van hưoởg
-<li>
-huong ngo
+**huong dan cai dat ubuntu**
+##muc luc
+* [1. chen link]
+* [2. chen the tieu de]
+    * hello
