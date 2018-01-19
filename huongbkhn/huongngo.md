@@ -22,29 +22,39 @@
 
 **2.2. Cài đặt**
 
-**Chúng ta tiến hành cấu hình máy ảo như sau**
+Chúng ta tiến hành cấu hình máy ảo như sau
+
 
 <img src="https://i.imgur.com/XHUhKs7.png">
 
-**Tiếp theo là bước thiết lập *username* và *password* để đăng nhập vào máy ảo**
+
+Tiếp theo là bước thiết lập **username** và **password** để đăng nhập vào máy ảo
+
 
 <img src="https://i.imgur.com/RAzlc8d.png">
+
 
 Cứ tiếp tục bấm next và đến đoạn này là chọn dung lượng *RAM* để chạy cho máy ảo.
 Oử đây tôi chọn **1GB** dung lượng **RAM** cho máy ảo.
 
+
 <img src="https://i.imgur.com/dYTYAk9.png">
+
 
 Tiếp tục bấm **Next** cho đến lúc kết thúc. Ta hiện ra một màn hình cài đặt như sau:
 
+
 <img src="https://i.imgur.com/QCYeYp0.png">
+
 
 Tiến trình cài đặt của ta đang chạy tự động.
 Hãy chờ đợi và tiếp nhận thành quả =)))
 
 <img src="https://i.imgur.com/ossrg1v.png">
 
+
 Và đây là thành quả =)))
+
 
 <img src="https://i.imgur.com/9eBlmDY.png">
 
@@ -53,6 +63,8 @@ Và đây là thành quả =)))
 
 **Putty** là phần mềm giúp bạn truy cập và điều khiển hệ điều hành *Linux* của bạn qua SSH**
 
-* Chạy lệnh: < sudo apt-get update
+* B1. Chạy lệnh: > sudo apt-get update
+* B2. Chạy lênh: > sudo apt-get install ssh
+
 
 
