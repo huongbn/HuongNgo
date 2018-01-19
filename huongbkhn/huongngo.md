@@ -1,26 +1,26 @@
-**Huong dan cài daặ Ubuntu 16.04**
+**Hướng dẫn cài đặt Ubuntu 16.04**
 
-## Mục luc
+## Mục lục
 
-* [1.Giwois thieu ve he diều hanà ubuntu sever](#1)
-* [2.Huwong dan cai dat](#2)
-    * [2.1 Chuan bi](#2.1)
-    * [2.2 Cai dat](#2.2)
+* [1.Giới thiệu về hệ điều hành ubuntu sever](#1)
+* [2.Hướng dẫn cài đặt](#2)
+    * [2.1 Chuẩn bị](#2.1)
+    * [2.2 Cài đặt](#2.2)
 
-**1.Gioi thieu he dieu hanh ubuntu server**
+**1.Giới thiệu hệ điều hành Ubuntu server**
 
-Ubuntu server 16.04 la he dieu hanh duoc phat hanh thang 4 nam 2015, chu yeu su dung cho cac server, voi giao dien tuong tac dong lenh, khong co ho tro giao dien do hoa.
+Ubuntu server 16.04 là hệ điều hành được phát hành 4 năm 2015, chủ yếu dùng cho các server, với giao diện tương tác dòng lệnh, không có hỗ trợ giao diện đồ họa.
 
-**2.Huong dan cai dat**
+**2.Hướng dẫn cài đặt**
 
-**2.1.Chuan bi**
+**2.1.Chuẩn bị**
 
 * VMWare Workstation 12.0
-* Download 'link' cai dặt tu trang http://www.ubuntu.com/download/server
+* Download 'link' cài dặt từ trang http://www.ubuntu.com/download/server
 
 
-**2.2. Cai dat**
+**2.2. Cài đặt**
 
 **Cấu hình máy ảo như sau**
 
-<img src="https://imgur.com/a/CZjG5">
+<img src="[Imgur](https://i.imgur.com/XHUhKs7.png)">
