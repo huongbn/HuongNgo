@@ -8,6 +8,7 @@
     * [2.2 Cài đặt](#2.2)
 * [3.Cài đặt SSH để putty](#3)
 
+<a name="1"></a>
 **1.Giới thiệu hệ điều hành Ubuntu server**
 
 **Ubuntu server 16.04** là hệ điều hành được phát hành 4 năm 2015, chủ yếu dùng cho các server, với giao diện tương tác dòng lệnh, không có hỗ trợ giao diện đồ họa.
