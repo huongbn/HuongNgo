@@ -24,7 +24,7 @@
 * Download "link" cài dặt từ trang http://www.ubuntu.com/download/server
 
 
-<a name="2.1"></a>
+<a name="2.2"></a>
 **2.2. Cài đặt**
 
 Chúng ta tiến hành cấu hình máy ảo như sau
