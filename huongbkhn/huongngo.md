@@ -13,14 +13,18 @@
 
 **Ubuntu server 16.04** là hệ điều hành được phát hành 4 năm 2015, chủ yếu dùng cho các server, với giao diện tương tác dòng lệnh, không có hỗ trợ giao diện đồ họa.
 
+<a name="2"></a>
 **2.Hướng dẫn cài đặt**
 
+
+<a name="2.1"></a>
 **2.1.Chuẩn bị**
 
 * VMWare Workstation 12.0
 * Download "link" cài dặt từ trang http://www.ubuntu.com/download/server
 
 
+<a name="2.1"></a>
 **2.2. Cài đặt**
 
 Chúng ta tiến hành cấu hình máy ảo như sau
@@ -60,6 +64,7 @@ Và đây là thành quả =)))
 <img src="https://i.imgur.com/9eBlmDY.png">
 
 
+<a name="3"></a>
 **3. Cài đặt SSH để putty**
 
 **Putty** là phần mềm giúp bạn truy cập và điều khiển hệ điều hành *Linux* của bạn qua SSH**
